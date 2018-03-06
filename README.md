@@ -1,2 +1,2 @@
 # test-git
-fun with git
+git tutorial
